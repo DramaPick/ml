@@ -1,0 +1,5 @@
+*.mov
+faces/
+clustered_faces/
+clustered_faces_final/
+*.dat
